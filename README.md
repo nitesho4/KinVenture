@@ -5,7 +5,6 @@ Kinventure is a web application designed to help families track their travels ar
 Features
 
 Interactive World Map: Users can view a world map and interact with it to add countries they have visited.
-User Authentication: Secure user authentication system to ensure privacy and data security.
 Country Tracking: Users can add countries they have visited to their profile and visualize their travel progress.
 Responsive Design: The application is optimized for various screen sizes, making it accessible across devices.
 
